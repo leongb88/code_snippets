@@ -1,7 +1,7 @@
 import psutil
 import os
 import sys
-import timed
+import time
 
 
 def memory_usage_psutil():
